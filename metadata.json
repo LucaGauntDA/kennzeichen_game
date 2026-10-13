@@ -1,0 +1,8 @@
+{
+  "name": "PlateMaster iPad Quiz",
+  "description": "Minimalistisches Kennzeichen-Quiz für das iPad mit dynamischem Schwierigkeitsverlauf und intuitivem Touch-Gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
